@@ -64,7 +64,7 @@ Hemoglobin
 
 #### Where is Red Blood Cells eliminated
 
-Spleen and macrophage live in organ or liver
+Macrophage of the spleen, liver
 
 ---
 
