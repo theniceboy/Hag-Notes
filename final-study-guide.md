@@ -41,10 +41,10 @@ sliding_filament_theory01.jpg
 | acetylcholine           | a chemical transmitter substance released by certain nerve endings                                                          |
 | acetylcholinesterase    | an enzyme that catalyzes the breakdown of acetylcholine and of some other choline eaters that function as neurotransmitters |
 | vesicles                |                                                                                                                             |
-| synapse                 |                                                                                                                             |
-| motor end plate         |                                                                                                                             |
-| myosin                  |                                                                                                                             |
-| actin                   |                                                                                                                             |
+| synapse                 | the region of communication between neurons, or a neuromuscular junction between a neuron and a muscle cells                |
+| motor end plate         | neuromuscular junction                                                                                                      |
+| myosin                  | A band = d**A**rk, thick                                                                                                    |
+| actin                   | I band = l**I**ght , thin                                                                                                   |
 | z disc                  |                                                                                                                             |
 | ATP                     |                                                                                                                             |
 | power stroke            |                                                                                                                             |
