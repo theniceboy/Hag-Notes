@@ -25,6 +25,8 @@
 ---
 ### Sliding Filament Theory
 
+（A: neuron synapse, B: myelin sheaths, F: sarcoplasmic reticulum, G: calcium ion, H: myosin, I: Actin, J: ATP, K: ADP)
+
 ![animation](img/sft.gif)
 
 1. Action Potential causes SR (sarcoplasmic reticulum) to release calcium
