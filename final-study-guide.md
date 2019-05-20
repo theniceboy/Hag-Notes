@@ -1,5 +1,5 @@
 # Anatomy Final Study Guide
-
+---
 ### Muscle to Know
 
 | Muscle              | Action                                        | Location | 中文   |
@@ -21,6 +21,7 @@
 | sternocleidomastoid | flex neck (lean head left and right)          |          |        |
 | platysma            | tense skin of the neck                        |          |        |
 
+---
 ### Sliding Filament Theory
 
 sliding_filament_theory01.jpg
@@ -31,6 +32,7 @@ sliding_filament_theory01.jpg
 
 [animation](http://tabletopwhale.com/2014/08/12/a-users-guide-to-muscles.html)
 
+---
 ### know the following terms
 
 | Term                    | Definition                                                                                                                  |
@@ -52,6 +54,7 @@ sliding_filament_theory01.jpg
 | anaerobic glicholysis   |                                                                                                                             |
 | creatine phosphate      |                                                                                                                             |
 
+---
 ### Three Muscle Types
 
 | Type I    | Type IIa   | Type IIx   |
@@ -60,8 +63,7 @@ sliding_filament_theory01.jpg
 | Oxidative | Oxidative  |            |
 |           | Glycolytic | Glycolytic |
 
-
-
+---
 ### Describe the amount of ATP yielded by all 3 energy system and what muscle fiber types they recruit within a certain activity
 
 | Creatine Phosphate | Anerobic Glycolysis | Aerobic Phosphorylation |
@@ -71,10 +73,16 @@ sliding_filament_theory01.jpg
 | 1-2 ATP            | 2 ATP               | 32-38 ATP               |
 | Type IIx           | Type IIa            | Type I                  |
 
+---
 ### List the different types of muscular movement
 
 
+---
 ### Be able to differentiate the concentric and eccentric motions of the following exercises:
+
+`Concentric`: Muscle **Shortens** while applying force
+
+`Eccentric`: Muscle **Lengthens** while applying force
 
 | Exercise    | Type |
 |-------------|------|
@@ -83,10 +91,13 @@ sliding_filament_theory01.jpg
 | push up     |      |
 | sit up      |      |
 
+---
 ### Be able to identify all individual parts of a motor neuron
 
+---
 ### Identify neurons based on their structural classification
 
+---
 ### Know the following terms
 
 | Term             | Definition |
@@ -106,12 +117,30 @@ sliding_filament_theory01.jpg
 | CNS              |            |
 | PNS              |            |
 
+---
 ### Label the nervous system tree
 
+---
 ### Know all of the different types of neuroglia and what nervous system they belong in
 
+CNS
+- Astrocyte
+  - Star-shaped cells that **repairs damage**
+- Microglia
+  - Spiderlike cells that **monitors health** of nearby neurons
+- Ependymal
+- Oligodendrocyte
+  - **Forms myelin sheaths**
+PNS
+- Satellite cells
+  - Protective cushioning cells
+- Schwann cells
+  - **forms myelin sheaths** around nerve fibers in PNS
+
+---
 ### Know the 3 layers of the eye and what each structure is responsible for
 
+---
 ### Know the following terms
 
 | Term               | Definition |
@@ -138,18 +167,54 @@ sliding_filament_theory01.jpg
 | semicircular canel |            |
 | olfaction          |            |
 
+---
 ### List the 12 cranial nerves in order and differentiate whether they are sensory or motor
 
+1. Olfactory (s)
+2. Optic (s)
+3. Oculomotor (m)
+4. Trochlear (m)
+5. Trigeminal (sm)
+6. Abducens (m)
+7. Facial (sm)
+8. Vestibulocochlear (s)
+9. Glossopharyngeal (sm)
+10. Vagus (sm)
+11. Accessory (m)
+12. Hypoglossal (m)
+
+**Memorize**:
+- On old Olympus's tower top, a Finn and German viewed some hops
+- Some say marry money but my brother says big brains matter more
+
+---
 ### Know the functions for Optic, Vestibulocochlear and Olfactory
 
+---
 ### List the 4 lobes of the cerebrum and all the structures of the diencephalon
 
+---
 ### List the pathway of blood through the heart
 
-### List the pathway of blood through the heart
+1. Veins -> Superior & inferior cava
+2. R. Atrium -> Tricuspid U.
+3. R. Ventricles -> P. Valve -> P. Artery
+4. Lungs -> P. Veins
+5. L. Atrium -> Bicuspid Valve -> L. Ventricle
+6. Aortic Valve -> Aorta
 
+---
 ### List all types of WBC's
 
+- Granulocytes
+  - Neutrophil
+  - Basophil
+  - Eosinophil
+- Agranulocytes
+  - Lymphocyte
+  - Monocyte
+
+---
 ### Functions and structures of the cardiovascular system
 
 
