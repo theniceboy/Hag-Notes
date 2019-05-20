@@ -34,7 +34,7 @@
 3. The myosin head binds to actin
 4. ATP releases energy pulling it towards the H zone (power stroke)
 
-#### What are the two elements that fluctuate once the ligated channel opens 
+#### What are the two elements that fluctuate once the ligated channel opens
 - Na, K
 
 #### What prevents actin and myosin from forming together?
@@ -200,13 +200,13 @@
 ---
 ### Know the 3 layers of the eye and what each structure is responsible for
 
-Fibrous tunic (outer layer)
-- Sclera
-Choroid tunic (middle layer)
-- Choroid
-- Lens
-Sensory Tunic (inner layer)
-- retina
+- Fibrous tunic (outer layer)
+  - Sclera
+- Choroid tunic (middle layer)
+  - Choroid
+  - Lens
+- Sensory Tunic (inner layer)
+  - retina
 
 ---
 ### Know the following terms
