@@ -98,9 +98,9 @@ s
 ---
 ### List the different types of muscular movement
 
-Flexion: action of bending around a joint of limb
 | Movement                | Description                                                                    |
 |-------------------------|--------------------------------------------------------------------------------|
+| Flexion                 | action of bending around a joint of limb                                       |
 | Extension               | straightening movement                                                         |
 | Adduction               | movement of a limb toward the midline of the body                              |
 | Abduction               | movement of a limb away from the midline of the body                           |
