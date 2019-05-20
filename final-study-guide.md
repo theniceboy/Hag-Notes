@@ -53,12 +53,12 @@
 
 #### What removes ACH from ligated channel
 - cholinesterase
-s
+
 #### What structure in the axon terminal that holds neurotransmitters?
 - Vesicles
 
 ---
-## know the following terms
+## Know the following terms
 
 | Term                    | Definition                                                                                                               |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------|
