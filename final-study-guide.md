@@ -239,7 +239,7 @@
 ![ear](img/ear-structure.jpg)
 
 #### Sound
-Eardrum -> Malleus -> Incus
+Eardrum -> Malleus -> Incus -> Stapes
 
 #### Which bone lies behind the Tympanic membrane?
 - Malleus
