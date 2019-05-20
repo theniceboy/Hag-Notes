@@ -14,13 +14,13 @@
 | rectus femoris      | knee extension                                | around knee      |
 | tibialis anterior   | movement of dorsiflexion (move tip up)        | front ankle area |
 | soleus              | movement of planter flexion (move tip down)   | ankle area       |
-| gastrocnemius       | movement of planter flexion (move tip down)   | inner thigh area |
+| gastrocnemius       | running and jumping                           | inner thigh area |
 | triceps brachii     | elbow extension, forearm flexion              | upper arm        |
 | external oblique    | flexes vertebral column                       | sides of chest   |
 | internal oblique    | trunk rotation                                | side of chest    |
 | frontalis           | raise eyebrows                                | forehead         |
 | sternocleidomastoid | head rotation                                 | side of neck     |
-| platysma            | neck flexion                                  |front of neck|
+| platysma            | neck flexion                                  | front of neck    |
 
 ---
 ### Sliding Filament Theory
