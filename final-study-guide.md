@@ -261,7 +261,7 @@ Eardrum -> Malleus -> Incus -> Stapes
 12. Hypoglossal (m)
 
 **Memorize**:
-- On old Olympus's tower top, Finn and German viewed some hops
+- On old Olympus's tower top, a Finn and German viewed some hops
 - Some say marry money but my brother says big brains matter more
 
 ---
