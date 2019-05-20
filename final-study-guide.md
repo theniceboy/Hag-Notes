@@ -2,27 +2,30 @@
 ---
 ### Muscle to Know
 
-| Muscle              | Action                                        | Location | 中文   |
-|---------------------|-----------------------------------------------|----------|--------|
-| biceps brachii      | elbow flexion                                 |          |        |
-| biceps femoris      | thigh extension, knee flexion                 |          |        |
-| pectoralis major    | flexion, adduction and medial rotation of arm |          | 胸大肌 |
-| deltoid             | flexion and medial rotation of arm            |          |        |
-| orbicularis oris    | move lips                                     |          |        |
-| masseter            | elevate mandible, close jaw                   |          |        |
-| zygomaticus         | raises corners of lips                        |          |        |
-| rectus femoris      | knee extension                                |          |        |
-| tibialis anterior   | movement of dorsiflexion (move tip up)        |          |        |
-| soleus              | movement of planter flexion (move tip down)   |          |        |
-| gastrocnemius       | movement of planter flexion (move tip down)   |          |        |
-| triceps brachii     | elbow extension, forearm flexion              |          |        |
-| internal oblique    | trunk rotation                                |          |        |
-| frontalis           | rais eyebrows                                 |          |        |
-| sternocleidomastoid | head rotation                                 |          |        |
-| platysma            | neck flexion                                  |          |        |
+| Muscle              | Action                                        | Location         |
+|---------------------|-----------------------------------------------|------------------|
+| biceps brachii      | elbow flexion                                 | upper arm        |
+| biceps femoris      | thigh extension, knee flexion                 | femur area       |
+| pectoralis major    | flexion, adduction and medial rotation of arm | chest            |
+| deltoid             | flexion and medial rotation of arm            | side of shoulder |
+| orbicularis oris    | move lips                                     | around mouth     |
+| masseter            | elevate mandible, close jaw                   | cheek            |
+| zygomaticus         | raises corners of lips                        | cheek area       |
+| rectus femoris      | knee extension                                | around knee      |
+| tibialis anterior   | movement of dorsiflexion (move tip up)        | front ankle area |
+| soleus              | movement of planter flexion (move tip down)   | ankle area       |
+| gastrocnemius       | movement of planter flexion (move tip down)   | inner thigh area |
+| triceps brachii     | elbow extension, forearm flexion              | upper arm        |
+| external oblique    | flexes vertebral column                       | sides of chest   |
+| internal oblique    | trunk rotation                                | side of chest    |
+| frontalis           | raise eyebrows                                | forehead         |
+| sternocleidomastoid | head rotation                                 | side of neck     |
+| platysma            | neck flexion                                  |front of neck|
 
 ---
 ### Sliding Filament Theory
+
+![animation](img/sft.gif)
 
 1. Action Potential causes SR (sarcoplasmic reticulum) to release calcium
 2. Calcium binds to troponin, removing tropomyosin from the binding sites on the actin
@@ -46,35 +49,30 @@
 5. Myofibril
 6. Sarcomere
 
-What removes ACH from ligated channel
+#### What removes ACH from ligated channel
 - cholinesterase
-
-What structure in the axon terminal that holds neurotransmitters?
+s
+#### What structure in the axon terminal that holds neurotransmitters?
 - Vesicles
 
-[animation](http://tabletopwhale.com/2014/08/12/a-users-guide-to-muscles.html)
-
 ---
-### know the following terms
+## know the following terms
 
-| Term                    | Definition                                                                                                                  |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| neuromuscular junction  | the region where a motor neuron comes into close contact with a skeletal muscle cell                                        |
-| lactic acid             | the product of anaerobic metabolism, especially in muslce                                                                   |
-| neurotransmitter        | chemical released by neurons that may, upon binding to receptors of neurons or effector cells, stimulate or inhibit them    |
-| acetylcholine           | a neurotransmitter that causes muscle contraction                                                          |
-| acetylcholinesterase    | an enzyme that catalyzes the breakdown of acetylcholine and of some other choline eaters that function as neurotransmitters |
-| vesicles                |                                                                                                                             |
-| synapse                 | the region of communication between neurons, or a neuromuscular junction between a neuron and a muscle cells                |
-| motor end plate         | neuromuscular junction                                                                                                      |
-| myosin                  | A band = d**A**rk, thick                                                                                                    |
-| actin                   | I band = l**I**ght , thin                                                                                                   |
-| z disc                  |                                                                                                                             |
-| ATP                     |                                                                                                                             |
-| power stroke            |                                                                                                                             |
-| aerobic phosphorylation |                                                                                                                             |
-| anaerobic glicholysis   |                                                                                                                             |
-| creatine phosphate      |                                                                                                                             |
+| Term                    | Definition                                                                                                               |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| neuromuscular junction  | the region where a motor neuron comes into close contact with a skeletal muscle cell                                     |
+| lactic acid             | the product of anaerobic metabolism, especially in muslce                                                                |
+| neurotransmitter        | chemical released by neurons that may, upon binding to receptors of neurons or effector cells, stimulate or inhibit them |
+| acetylcholine           | a neurotransmitter that causes muscle contraction                                                                        |
+| acetylcholinesterase    | an enzyme that catalyzes the breakdown of ACH                                                                            |
+| vesicles                | small enclosed structure or cavity                                                                                       |
+| synapse                 | the region of communication between neurons, or a neuromuscular junction between a neuron and a muscle cells             |
+| motor end plate         | neuromuscular junction                                                                                                   |
+| myosin                  | A band = d**A**rk, thick                                                                                                 |
+| actin                   | I band = l**I**ght , thin                                                                                                |
+| z disc                  | (z line) thin filaments, measurement of sarcomere                                                                        |
+| ATP                     | energy unit                                                                                                              |
+| power stroke            | when energy is released for sarcomere to contract                                                                        |
 
 ---
 ### Three Muscle Types
@@ -98,20 +96,33 @@ What structure in the axon terminal that holds neurotransmitters?
 ---
 ### List the different types of muscular movement
 
+Flexion: action of bending around a joint of limb
+| Movement                | Description                                                                    |
+|-------------------------|--------------------------------------------------------------------------------|
+| Extension               | straightening movement                                                         |
+| Adduction               | movement of a limb toward the midline of the body                              |
+| Abduction               | movement of a limb away from the midline of the body                           |
+| Circumduction           | moment in a circular motion                                                    |
+| Medial/lateral Rotation | movement of limbs along the axis                                               |
+| Supination              | in feet and arms, faces forward (can hold soup)                                |
+| Pronation               | rotation of the hand and forearm so that the palm faces backwards or downwards |
+| Doris flexion           | raising the foot upwards towards the shin                                      |
+| Plantar flexion         | movement of the foot in which the foot or toes flex downward                   |
+| Inversion               | tilt the sole of foot toward the midline of the body                           |
+| Eversion                | tilt the sole of foot away from the midline of the body                        |
+| Depression              | downward movement                                                              |
+| Elevation               | upward movement                                                                |
+| Superior                | toward the head                                                                |
+| Inferior                | away from the head                                                             |
 
 ---
 ### Be able to differentiate the `concentric` and `eccentric` motions of the following exercises:
 
+(back squat, bench press, push up, sit up)
+
 `Concentric`: Muscle **Shortens** while applying force
 
 `Eccentric`: Muscle **Lengthens** while applying force
-
-| Exercise    | Type |
-|-------------|------|
-| back squat  |      |
-| bench press |      |
-| push up     |      |
-| sit up      |      |
 
 ---
 ### Be able to identify all individual parts of a motor neuron
@@ -131,22 +142,22 @@ What structure in the axon terminal that holds neurotransmitters?
 ---
 ### Know the following terms
 
-| Term             | Definition |
-|------------------|------------|
-| reflex arc       |            |
-| spinal cord      |            |
-| sensory neurons  |            |
-| motor neurons    |            |
-| MS               |cause body to attack the myelin sheath|
-| ALS              |cause myelin sheaths to become harder|
-| myelin           |            |
-| nodes of ranvier |            |
-| dendrites        |structures that receives information|
-| axon terminals   |            |
-| soma             |            |
-| synapse          |            |
-| CNS              |            |
-| PNS              |            |
+| Term             | Definition                                                                                                          |
+|------------------|---------------------------------------------------------------------------------------------------------------------|
+| reflex arc       | a neural pathway that controls a reflex                                                                             |
+| spinal cord      | the major column of nerve tissue that is connected to the brain and lies within the vertebral canal                 |
+| sensory neurons  | nerve cells within the nervous system responsible for converting external stimuli into internal electrical impulses |
+| motor neurons    | a neuron that passes from the central nervous system toward a muscle                                                |
+| MS               | cause body to attack the myelin sheath, it causes one to lose control of his/her muscles                            |
+| ALS              | cause myelin sheaths to become harder                                                                               |
+| myelin           | the fatty substance that covers and protects nerves                                                                 |
+| nodes of ranvier | a gap in the myelin sheath of a nerve, between Schwann cells                                                        |
+| dendrites        | structures that receives information                                                                                |
+| axon terminals   | when reached to the terminal neurotransmitters are released                                                         |
+| soma             | bed                                                                                                                 |
+| synapse          | the site of transmission of electric nerve impulses between 2 neurons of a neuron and a gland or muscle cell        |
+| CNS              | Central Nervous System                                                                                              |
+| PNS              | Peripheral Nervous System                                                                                           |
 
 ---
 ### Label the nervous system tree
@@ -155,11 +166,15 @@ What structure in the axon terminal that holds neurotransmitters?
 . The nervous system
 |
 +--- CNS
+|    +--- Brain
+|    +--- Spinal cord
 +--- PNS
+|    +--- Afferent
 |    +--- Efferent
 |    |    +--- Somatic nervous system
 |    |    +--- Automatic nervous system
-|    +--- Afferent
+|    |    |    +--- Sympathetic (fight or flight)
+|    |    |    +--- Parasymphathetic (rest & digest)
 ```
 
 ---
@@ -167,10 +182,11 @@ What structure in the axon terminal that holds neurotransmitters?
 
 - CNS
   - Astrocyte
-    - Star-shaped cells that **repairs damage**
+    - Star-shaped cells that **forms barrier and makes exchanges between capillaries**
   - Microglia
-    - Spiderlike cells that **monitors health** of nearby neurons
+    - Spiderlike cells that **dispose debris**
   - Ependymal
+    - **Circulates cerebrospinal fluid**
   - Oligodendrocyte
     - **Forms myelin sheaths**
 - PNS
@@ -181,6 +197,14 @@ What structure in the axon terminal that holds neurotransmitters?
 
 ---
 ### Know the 3 layers of the eye and what each structure is responsible for
+
+Fibrous tunic (outer layer)
+- Sclera
+Choroid tunic (middle layer)
+- Choroid
+- Lens
+Sensory Tunic (inner layer)
+- retina
 
 ---
 ### Know the following terms
@@ -198,31 +222,24 @@ What structure in the axon terminal that holds neurotransmitters?
 | lncus              | a small structure that transmits vibrations between the malleus and stapes                     |
 | malleus            | a small structure that transmits vibrations between the eardrum to the incus                   |
 | stapes             | a small structure that transmits vibrations between the incus and the opening of the inner ear |
-| inner ear          |                                                                                                |
-| outer ear          |                                                                                                |
-| middle ear         |                                                                                                |
-| auditory tube      |                                                                                                |
-| auditory canal     |                                                                                                |
-| tympanic membrane  |                                                                                                |
-| cochlea            |                                                                                                |
-| vestibule          |                                                                                                |
-| semicircular canel |                                                                                                |
-| olfaction          |                                                                                                |
-
-Fibrous tunic (outer layer)
-- Sclera
-Choroid tunic (middle layer)
-- Choroid
-- Lens
-Sensory Tunic (inner layer)
-- retina
+| inner ear          | includes organ for hearing and balance, has the bony labyrinth                                 |
+| outer ear          | involved in hearing only, pinna-cartilage of ear                                               |
+| middle ear         | air-filled cavity within the temporal bone, only involved in the sense of hearing              |
+| auditory tube      | connects the middle ear to throat, equalizes pressure (yawning and swallowing)                 |
+| auditory canal     | cannel from outside to inside of ear                                                           |
+| tympanic membrane  | the eardrum                                                                                    |
+| cochlea            | turn vibrations into neural signals                                                            |
+| vestibule          | respond to changes of head with gravity                                                        |
+| semicircular canel | help with balance                                                                              |
+| olfaction          | chemoreceptors that form the sense of smell                                                    |
 
 
 ![ear](img/ear-structure.jpg)
 
-Sound -> Eardrum -> Malleus -> Incus
+#### Sound
+Eardrum -> Malleus -> Incus
 
-Which bone lies behind the Tympanic membrane?
+#### Which bone lies behind the Tympanic membrane?
 - Malleus
 
 ---
@@ -253,14 +270,19 @@ Which bone lies behind the Tympanic membrane?
 | Smell     | Vision | Sound             |
 
 
-What is the largest portion of the brain?
+#### What is the largest portion of the brain?
 - Cerebrum
 
 ---
 ### List the 4 lobes of the cerebrum and all the structures of the diencephalon
 
+**4 Lobes of Brain**
+- Frontal
+- Occipital
+- Parietal
+- Temporal
 
-Diencephalon
+**Diencephalon**
 - Thalamus (relay center)
 - Hypothalamus (autonomic control center)
 - Epithalamus (body temp, food, and water control)
@@ -269,12 +291,12 @@ Diencephalon
 ---
 ### List the pathway of blood through the heart
 
-1. Veins -> Superior & inferior cava
-2. R. Atrium -> Tricuspid U.
-3. R. Ventricles -> P. Valve -> P. Ar tery
-4. Lungs -> P. Veins
-5. L. Atrium -> Bicuspid Valve -> L. Ventricle
-6. Aortic Valve -> Aorta
+1. `Veins` -> `Superior & inferior cava`
+2. `R. Atrium` -> `Tricuspid U.`
+3. `R. Ventricles` -> `P. Valve` -> `P. Artery`
+4. `Lungs` -> `P. Veins`
+5. `L. Atrium` -> `Bicuspid Valve` -> `L. Ventricle`
+6. `Aortic Valve` -> `Aorta`
 
 ---
 ### List all types of WBC's
@@ -307,8 +329,8 @@ Structure
   - AV Valve
   - Semilunar Valve
 - Blood Vessels
-  - Arteries carry blood with oxygen away from the heart (away)
-  - Veins carry deoxygenated blood back to the heart
-  - Capillaries exchange the gases
+  - `Arteries` carry blood with oxygen away from the heart (away)
+  - `Veins` carry deoxygenated blood back to the heart
+  - `Capillaries` exchange the gases
 
 
